@@ -2,7 +2,7 @@
 
 ## <center> I'm a **Fullsatck Developer :octocat: and a Tech enthusiastic :penguin: Enthusiast** </center>
 
-- 💻 I’m currently specializing on <u> **Fullstack Software Development**</u> and currently learning <u>**ML**📱.</u>
+- 💻 I’m currently specializing in <u> **Fullstack Software Development**</u> and currently learning <u>**JAVA**📱.</u>
 
 - 📖 Long story short:
 
