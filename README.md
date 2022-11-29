@@ -85,4 +85,4 @@ Here are a few things I've picked up along my learning journey.
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=EugeneOkonu&color=green)
+![](https://komarev.com/ghpvc/?username=okonueugene&color=green)
