@@ -1,6 +1,6 @@
 # <div style="text-align: center">Hi 👋🏻, I'm **Eugene** <img src="giphy.gif" height="25" width="30"><img src="kenya.gif" height="30" width="30" align ="right"> </div>
 
-## <center> I'm a **Fullsatck Developer :octocat: and a Tech enthusiastic :penguin: Enthusiast** </center>
+## <center> I'm a **Fullsatck Developer :octocat: and a IOT enthusiastic :penguin: Enthusiast** </center>
 
 - 💻 I’m currently specializing in <u> **Fullstack Software Development**</u> and currently learning <u>**JAVA**📱.</u>
 
