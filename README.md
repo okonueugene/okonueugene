@@ -17,7 +17,7 @@ Here are a few things I've picked up along my learning journey.
 
 - #### OS
 
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;![Windows](https://img.shields.io/badge/Windows-0078D6?style=flast&logo=windows&logoColor=white)&nbsp;![macOS](https://img.shields.io/badge/Mac%20OS-000000?style=flat&logo=macos&logoColor=F0F0F0)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;![Windows](https://img.shields.io/badge/Windows-0078D6?style=flast&logo=windows&logoColor=white)&nbsp;![macOS](https://img.shields.io/badge/Mac%20OS-000000?style=flat&logo=macos&logoColor=F0F0F0)&nbsp;![Red Hat](https://img.shields.io/badge/Centos-Red%20Hat-red)
 
 - #### ✧ Programming languages and Database.
 
