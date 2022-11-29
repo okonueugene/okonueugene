@@ -29,7 +29,7 @@ Here are a few things I've picked up along my learning journey.
 
 - #### :electron: CI/CD
 
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)&nbsp;![Jenkins](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=flat&logo=circleci&logoColor=white)&nbsp;![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)&nbsp;![GitLab CI](https://img.shields.io/badge/Gitlab%20Ci-%23181717.svg?style=flat&logo=gitlab&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![GitLab](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=gitlab)&nbsp;
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)&nbsp;![Jenkins](https://img.shields.io/badge/-Jenkins-61DAFB?logo=jenkins&logoColor=red)&nbsp;![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)&nbsp;![GitLab CI](https://img.shields.io/badge/Gitlab%20Ci-%23181717.svg?style=flat&logo=gitlab&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![GitLab](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=gitlab)&nbsp;
 
 - #### 🛠 Tools
   ![Rstudio](https://img.shields.io/badge/RStudio-05122A?style=flat&logo=RStudio&)&nbsp;![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?&logo=swagger&logoColor=white)&nbsp;![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)&nbsp;![PyCharm](https://img.shields.io/badge/Pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;![Jetbrains](https://img.shields.io/badge/-Jetbrains-05122A?style=plastic&logo=Intellij-idea&logoColor=orange)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?flat&logo=microsoft-office&logoColor=white)&nbsp;![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
@@ -51,11 +51,10 @@ Here are a few things I've picked up along my learning journey.
 <details>    
 <summary><b> :pushpin: &nbsp;I want to learn </b></summary>
 
-- [x] Machine Learning
-- [x] Visual Analytics
-- [x] AWS
-- [x] Data Engineering
-- [x] Database management
+- [x] Neural Networks
+- [x] Assembly
+- [x] Spring Boot
+
 </details>    
 <details>    
 <summary><b>:globe_with_meridians: Outside of coding I enjoy</b></summary>
