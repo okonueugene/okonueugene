@@ -56,9 +56,6 @@ Here are a few things I've picked up along my learning journey.
 <summary><b>:globe_with_meridians: Outside of coding I enjoy</b></summary>
 
 - ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white) Listening to music
-- ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=flat&logo=netflix&logoColor=white)Tech Documentaries,Geeky Sitcoms :vulcan_salute:
-- Hiking
-- Adventure
 </details>
 
 <details>    
