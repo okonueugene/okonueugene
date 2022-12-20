@@ -62,7 +62,8 @@ Here are a few things I've picked up along my learning journey.
 <summary> <b>🌱 Challenges that I’m currently challenging myself:</b></summary>    
 <br>    
 <!-- gif Image -->    
-<img src="life_balance.gif" alt="side Image" width="250" height="250" />    
+<img src="life_balance.gif" alt="side Image" width="250" height="250" /> 
+<img src= "https://www.codewars.com/users/MedalofHonorEugene/badges/small" alt=""width="250" height="250">   
 </details>
 
 ### 📞 Get in touch
