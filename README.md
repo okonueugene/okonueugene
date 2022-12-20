@@ -56,7 +56,9 @@ Here are a few things I've picked up along my learning journey.
 <details>    
 <summary><b>:globe_with_meridians: Outside of coding I enjoy</b></summary>
 
-- ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white) Listening to music
+- ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white)
+
+ ![Codewars](https://www.codewars.com/users/MedalofHonorEugene/badges/small)
 </details>
 
 <details>    
@@ -64,8 +66,7 @@ Here are a few things I've picked up along my learning journey.
 <br>    
 <!-- gif Image -->    
 <img src="life_balance.gif" alt="side Image" width="250" height="250" /> 
- <img src= "https://www.codewars.com/users/MedalofHonorEugene/badges/small" alt=""width="250" height="250"> 
- 
+
 </details>
 
 ### 📞 Get in touch
