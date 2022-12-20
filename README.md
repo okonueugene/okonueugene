@@ -15,8 +15,10 @@
 
 Here are a few things I've picked up along my learning journey.
 
+<details>
 <img src= "https://www.codewars.com/users/MedalofHonorEugene/badges/small" alt=""width="250" height="250"> 
 
+</details>
 - #### OS
 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black&style=plastic)&nbsp;![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white&style=plastic)&nbsp;![Windows](https://img.shields.io/badge/Windows-0078D6?style=flast&logo=windows&logoColor=white&style=plastic)&nbsp;![macOS](https://img.shields.io/badge/Mac%20OS-000000?style=plastic&logo=macos&logoColor=F0F0F0&style=plastic)&nbsp;![Red Hat](https://img.shields.io/badge/-CentOS-61DAFB?logo=centos&logoColor=red&style=plastic)&nbsp;![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-53778f?logo=kali%20linux&logoColor=white&style=plastic)
