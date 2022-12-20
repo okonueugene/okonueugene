@@ -15,6 +15,9 @@
 
 Here are a few things I've picked up along my learning journey.
 
+ ![Codewars](https://www.codewars.com/users/MedalofHonorEugene/badges/small)
+
+
 
 - #### OS
 
@@ -58,8 +61,8 @@ Here are a few things I've picked up along my learning journey.
 
 - ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white)
 
- ![Codewars](https://www.codewars.com/users/MedalofHonorEugene/badges/small)
 </details>
+ 
 
 <details>    
 <summary> <b>🌱 Challenges that I’m currently challenging myself:</b></summary>    
