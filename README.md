@@ -15,9 +15,7 @@
 
 Here are a few things I've picked up along my learning journey.
 
- ![Codewars](https://www.codewars.com/users/MedalofHonorEugene/badges/small)
-
-
+![Codewars](https://www.codewars.com/users/%F0%9D%93%9C%F0%9D%93%AE%F0%9D%93%AD%F0%9D%93%AA%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%AF%F0%9D%93%97%F0%9D%93%B8%F0%9D%93%B7%F0%9D%93%B8%F0%9D%93%BB%F0%9D%93%94%F0%9D%93%BE%F0%9D%93%B0%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%AE/badges/small)
 
 - #### OS
 
@@ -62,13 +60,13 @@ Here are a few things I've picked up along my learning journey.
 - ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white)
 
 </details>
- 
+
 
 <details>    
 <summary> <b>🌱 Challenges that I’m currently challenging myself:</b></summary>    
 <br>    
 <!-- gif Image -->    
-<img src="life_balance.gif" alt="side Image" width="250" height="250" /> 
+<img src="life_balance.gif" alt="side Image" width="250" height="250" />
 
 </details>
 
