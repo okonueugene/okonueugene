@@ -83,4 +83,4 @@ Here are a few things I've picked up along my learning journey.
 </p>
 
 ![](https://komarev.com/ghpvc/?username=okonueugene&color=green)
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=okonueugene&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api?username=okonueugene&show_icons=true&theme=merko&count_private=true" />
