@@ -33,6 +33,7 @@ Here are a few things I've picked up along my learning journey.
   ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman&style=plastic)&nbsp;![Composer](https://img.shields.io/badge/-Composer-chocolate?logo=composer&style=plastic)&nbsp;![IntelliJIdea](https://img.shields.io/badge/-IntelliJ%20IDEA-black?logo=IntelliJ%20IDEA&style=plastic)&nbsp;![Jetbrains](https://img.shields.io/badge/-Jetbrains-05122A?style=plastic&logo=Intellij-idea&logoColor=orange)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)&nbsp;![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)&nbsp;![Virtual Box](https://img.shields.io/badge/-VirtualBox-black?logo=virtualbox&style=plastic)
 
 <details> 
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=okonueugene&show_icons=true&theme=merko&count_private=true" />
 <summary><b> ⚙️ &nbsp;GitHub Analytics</b></summary>    
 <br>
 
@@ -60,7 +61,6 @@ Here are a few things I've picked up along my learning journey.
 - ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white)
 
 </details>
-
 
 <details>    
 <summary> <b>🌱 Challenges that I’m currently challenging myself:</b></summary>    
