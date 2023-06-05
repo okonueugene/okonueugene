@@ -79,8 +79,7 @@ Here are a few things I've picked up along my learning journey.
 </a>       
 <a href="mailto:onchwatieugene@gmail.com?subject=From Your Github Buddy"><img alt="Gmail" width="7%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/>    
 </a>
-
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api?username=okonueugene&show_icons=true&theme=merko&count_private=true" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=okonueugene&color=green)
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api?username=okonueugene&show_icons=true&theme=merko&count_private=true" />
