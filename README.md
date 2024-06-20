@@ -1,12 +1,10 @@
-# <div style="text-align: center">Hi 👋🏻, I'm **Eugene** <img src="giphy.gif" height="25" width="30"><img src="kenya.gif" height="30" width="30" align ="right"> </div>
+# <div style="text-align: center">Hi there 👋🏻, my name is **Eugene** <img src="giphy.gif" height="25" width="30"><img src="kenya.gif" height="30" width="30" align ="right"> </div>
 
 ## <center> I'm a **Software Engineer** </center>
 
-- 💻 I’m currently specializing in <u> **Fullstack Software Development**</u> and currently learning <u>**JAVA**📱.</u>
+- 💻 I’m currently specializing in <u> **Fullstack Software Development**
 
-
-- 🔭 I’m currently looking for new opportunities.
-- 💬 Feel free to reach out <a href="mailto:onchwatieugene@gmail.com?subject=From Your Github Buddy">:email:</a>
+- 💬 Feel free to reach out to me via email.<a href="mailto:onchwatieugene@gmail.com?subject=From Your Github Buddy">:email:</a>
 
 ### 🛠 &nbsp;Tech Stack :brain:
 
